@@ -230,7 +230,6 @@ footer p {
 
 @media (max-width: 1000px) {
   body {
-    width: 500px;
     margin: 0;
     padding: 0;
     color: #4a4a4a;
